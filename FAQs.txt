@@ -1,0 +1,12 @@
+Q:How to register?
+A:To registeron the Accenture Enterprise and Supplier Development (ESD) portal, you can follow these steps:1. Visit the ESD Portal  https://portalpioneer.my.salesforce-sites.com/esd/#/login .2. Look for the registration or sign-up option.3. Fill out the required fields with your business information.4. Make sure to provide accurate details and complete all mandatory fields marked with an asterisk (*).5. Create a secure password for your account.6. Once you've completed the registration process, you should receive a confirmation email.
+
+Q:How to login?
+A:Here are the steps to login to the Accenture Enterprise and Supplier Development (ESD) program:1. Visit the ESD Portal https://portalpioneer.my.salesforce-sites.com/esd/#/login                                                                             2. Enter your email address and password.3. If you've forgotten your password, click on "Forgot Password?" and follow the instructions to reset it.4. If you encounter any login issues or your account is locked, you can contact customer support for assistance. 
+
+Q:What happens if I want to change my company details?
+A:1. Log in to your account on the ESD Program Portal.2. Go to the "Profile" section within your account3. Make the necessary updates to your details, such as changing contact information or business registration numbers4. Save your changes to ensure that your profile is updated with the new information.
+
+Q:How to apply for an opportunity?
+A:To apply for business opportunities within the ESD Portal, follow these steps:1. Log in to your account on the ESD Program Portal.2. Browse the available opportunities listed on the "Opportunities" page 3. Follow the application instructions provided for each opportunity 4. Ensure you submit all required information and documents as outlined in the application guidelines 5. Track the status of your application in the "My Applications" section of your account.
+
